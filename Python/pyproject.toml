@@ -1,0 +1,9 @@
+[project]
+name = "algorithms-python"
+version = "0.1.0"
+description = "Classic algorithms implemented from scratch in Python, with tests."
+requires-python = ">=3.12"
+
+[tool.pytest.ini_options]
+testpaths = ["src"]
+addopts = "-ra"

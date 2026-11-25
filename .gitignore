@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.egg-info/
+
+# C++ (coming later)
+build/
+cmake-build-*/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
